@@ -1,8 +1,29 @@
-body {
-  padding: 50px;
+*
+{
+	border:  0;
+	margin:  0;
+	padding: 0;
+	
+}
+
+body
+{
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
-a {
+a
+{
   color: #00B7FF;
+}
+
+p
+{
+	font-size: .5em;
+}
+
+#container
+{
+	background: #FFB933;
+	border: 2em;
+	padding: 1em;
 }
